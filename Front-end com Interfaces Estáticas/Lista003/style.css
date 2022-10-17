@@ -1,0 +1,65 @@
+main{
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+body{
+    background-image: linear-gradient(to bottom, #000000, #fffd00);
+    background-repeat: no-repeat;
+}
+
+#demotext {
+    text-shadow: 5px 5px 5px #CE5937;
+    color: #000000;
+    background: #F1FF11;
+    font-size: 80px;
+    text-align: center;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+#title{
+    background-color: #000000;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+
+}
+h1{
+    color:#fffd00;
+}
+#header{
+    background-color: #000000;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+#firstimage{
+    align-items: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h3{
+    color: blue;
+}
+
+
+
